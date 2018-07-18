@@ -1,6 +1,18 @@
 hello world
 
 2nd line
+<<<<<<< HEAD
 Gk thrid input
 
 GK 5th change
+
+
+
+my comment - Vivek
+
+Gk thrid input
+
+
+My new changes = 4th One
+
+
